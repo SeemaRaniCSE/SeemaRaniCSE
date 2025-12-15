@@ -1,6 +1,6 @@
-Coordinator and Assistant Professor
-Department of CSE
-Ambala College of Engineering and Applied Research, Ambala
+Coordinator and Assistant Professor|
+Department of CSE|
+Ambala College of Engineering and Applied Research, Ambala|
 Machine Learning Researcher
 
 
